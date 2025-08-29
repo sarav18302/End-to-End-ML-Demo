@@ -1,0 +1,6 @@
+outs:
+- md5: 36baa8b5650d7c8de2e92fcb7f6b5b01
+  size: 96456707
+  isexec: true
+  hash: md5
+  path: best_resnet_binary_model.pth
